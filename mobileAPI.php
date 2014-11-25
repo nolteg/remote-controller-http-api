@@ -18,7 +18,7 @@
 $binaryPath = '/home/pi/433Utils/RPi_utils/codesend';
 $useSudo = true;
 $rfCode1 = '7675618';	// Use to switch ON 
-$rfCode1 = '1135517';	// Use to switch OFF
+$rfCode2 = '1135517';	// Use to switch OFF
 
 $users = [];
 $users['test']['pw'] = '1234';
